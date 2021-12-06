@@ -28,10 +28,10 @@ Dictionary sendiri memiliki dua buah komponen inti:
 	```python
 	s['Riko']='087654544';
 	```
-4. Untuk mengubah kontak yang lama dengan yang baru, gunakan `variable_dictionary['keys']=value;`. Disini saya akan  mengubah valuenya yang semula `'Dina': '087677776'` menjadi `'Dina': '088988776'`.
+4. Untuk mengubah kontak yang lama dengan yang baru, gunakan `variable_dictionary['keys']=value;`. Disini saya akan  mengubah valuenya yang semula `'Dina': '087677776'` menjadi `'Dina': '088999776'`.
 
 	```python
-	s['Dina']='088988776';
+	s['Dina']='088999776';
     ```
 5. Untuk menampilkan semua nama kontak, gunakan `keys()`.
 	```python
@@ -51,9 +51,11 @@ Dictionary sendiri memiliki dua buah komponen inti:
 	```
 ### C. Output
 
+![Gambar 13](image/outputlat1.1.jpeg)
+
 ![Gambar 3](image/outputlat1.jpeg)
 
-## Tugas Pratikum 5
+## 2. Tugas Pratikum 5
 
 ### A. Flowchart
 
